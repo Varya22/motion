@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.header{
+  background-color: white;
+}
+
+
+.footer{
+  font-family: Montserrat;
+  font-size: 15px;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 50px;
+  padding: 10px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
